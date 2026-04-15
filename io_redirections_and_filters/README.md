@@ -1,1 +1,1 @@
-This folder contains scripts for I/O redirections and filters.
+This directory is about I/O Redirections and Filters

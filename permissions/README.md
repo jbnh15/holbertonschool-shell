@@ -1,1 +1,1 @@
-This folder contains scripts for shell permissions.
+This folder contains exercises about permissions in Linux Shell.
