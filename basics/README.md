@@ -1,1 +1,1 @@
-This folder contains scripts for shell basics.
+This is a script to run the pwd bash command.
